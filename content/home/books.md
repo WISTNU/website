@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Books"
+title = "Book Club"
 subtitle = ""
 
 [content]
@@ -21,21 +21,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-  
-   [[content.filter_button]]
-     name = "What we have read"
-     tag = "HaveRead"
+#   [[content.filter_button]]
+#     name = "All"
+#     tag = "*"
   
    [[content.filter_button]]
      name = "What we are reading"
      tag = "What we are reading"
+   
+   [[content.filter_button]]
+     name = "What we have read"
+     tag = "What we have read"
   
    [[content.filter_button]]
-     name = "Want we want to read"
-     tag = "WantToRead"
+     name = "What we want to read"
+     tag = "What we want to read"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
