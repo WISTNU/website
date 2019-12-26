@@ -1,0 +1,43 @@
+---
+title: 'Alecia Wartowski: Negotiating for Success'
+author: ''
+date: '2018-11-27'
+slug: 20181127-Negotiating
+categories: []
+tags: []
+subtitle: 'Tuesday, November 27, 2018'
+summary: 'Tuesday, November 27, 2018'
+authors: []
+lastmod: '2019-12-23T22:03:09-06:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: true
+projects: []
+
+header:
+  image: 
+  caption: 
+---
+
+
+## Date and Time  
+Thursday, November 27, 2018  
+5:00 PM to 6:00 PM   
+Statistics Department
+2006 Sheridan Road
+Evanston, IL  
+
+Dinner Provided  
+Please RSVP to Mena Whalen, menawhalen2020@u.northwestern.edu 
+
+
+## Event  
+**Speaker: [Alecia Wartowski](https://flipturnconsulting.com/who-we-are)**  
+Alecia Wartowski is a consultant who will present on negotiating contracts, focuses on tips for women.  The event includes questions and answers as well as role playing.  
+
+[Slides from Talk](/pdf/20181127/Slides.pdf)  
+[Negotiating Salary Role Play: Academic Job](/pdf/20181127/Academic.pdf)  
+[Negotiating Salary Role Play: Industry Job](/pdf/20181127/Industry.pdf)  
+
