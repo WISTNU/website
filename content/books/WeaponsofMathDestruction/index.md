@@ -14,7 +14,7 @@ featured: no
 image: 
   caption: ''
   focal_point: ''
-  preview_only: no
+  preview_only: true
 projects: []
 ---
 <img alt = 'my new screenshot' width='200' src='/img/Books/WeaponsofMathDestruction.jpg' align="left" style="margin: 0px 10px 0px 0px;"/>  

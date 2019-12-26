@@ -1,15 +1,14 @@
 ---
-title: Invisible Women
+title: 'Book Discussion: Invisible Women'
 author: ''
 date: '2019-12-23'
-slug: invisible-women
+slug: 20190109-BookDiscussion-InvisibleWomen
 categories: []
-tags:
-  - AreReading
+tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2019-12-23T13:59:13-06:00'
+lastmod: '2019-12-23T21:55:51-06:00'
 featured: no
 image:
   caption: ''
