@@ -21,6 +21,7 @@ header:
   caption: 
 ---
 
+<img alt = '' width='300' src='/img/events/speaker.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 
 ## Date and Time  
 Thursday, November 27, 2018  

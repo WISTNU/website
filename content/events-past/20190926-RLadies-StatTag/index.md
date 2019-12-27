@@ -21,6 +21,7 @@ header:
   caption: 
 ---
 
+<img alt = '' width='300' src='/img/events/coding.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 
 ## Date and Time  
 Thursday, September 26, 2019  

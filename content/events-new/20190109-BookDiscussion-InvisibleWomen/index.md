@@ -21,7 +21,7 @@ header:
   caption: 
 ---
 
-<img alt = 'Invisible Women' width='300' src='/img/events/discussion.png' align="right" style="margin: 0px 10px 0px 0px;"/> 
+<img alt = '' width='300' src='/img/events/discussion.png' align="right" style="margin: 0px 10px 0px 0px;"/> 
 
 ## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}})
 
