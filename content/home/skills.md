@@ -2,8 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "female"
+  icon_pack = "fas"
+  name = "Speaker Series"
+  description = ""
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Workshops"
+  description = ""  
+  
+[[feature]]
+  icon = "apple-alt"
+  icon_pack = "fas"
+  name = "Brown Bag Lunches"
+  description = ""
+
+[[feature]]
+  icon = "discourse"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Discussions"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "users"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "WiDS Conference"
+  description = ""
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "venus"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Other Women-focused Events"
+  description = ""
 
 +++
