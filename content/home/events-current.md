@@ -65,3 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+[TEST]( {{< ref "types-events/Speaker.md" >}})
+
+[Invisible Women]( {{< relref "types-events/Speaker.md" >}})

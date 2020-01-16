@@ -17,8 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "female"
   icon_pack = "fas"
-  name = "Speaker Series"
+  name = ""
   description = ""
+  
+[[main]]
+  name = "My new page"  # A link title for your page.
+  url = "types-events/Speaker.md"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
   
 [[feature]]
   icon = "laptop-code"
