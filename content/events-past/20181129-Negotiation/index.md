@@ -19,14 +19,15 @@ projects: []
 header:
   image: 
   caption: 
+  
+#<img alt = '' width='200' src='/img/events/combine-speaker+workshop.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 ---
 
-<img alt = '' width='300' src='/img/events/speaker.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 
 ## Date and Time  
 Thursday, November 27, 2018  
 5:00 PM to 6:00 PM   
-Statistics Department
+Statistics Department  
 2006 Sheridan Road
 Evanston, IL  
 
