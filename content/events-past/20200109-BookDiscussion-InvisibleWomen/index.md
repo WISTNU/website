@@ -1,7 +1,7 @@
 ---
 title: 'Book Discussion: Invisible Women '
 author: ''
-date: '2019-01-09'
+date: '2020-01-09'
 slug: 20190109-BookDiscussion-InvisibleWomen
 categories: []
 tags: []
@@ -17,11 +17,9 @@ image:
 projects: []
 
 header:
-  image: # "events/discussion.png"  
+  image:   
   caption: 
 ---
-
-<img alt = '' width='300' src='/img/events/discussion.png' align="right" style="margin: 0px 10px 0px 0px;"/> 
 
 ## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}})
 

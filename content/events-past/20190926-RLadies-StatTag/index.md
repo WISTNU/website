@@ -4,7 +4,11 @@ author: ''
 date: '2019-09-26'
 slug: 20190926-RLadies-Stattag
 categories: []
-tags: []
+tags: 
+ - Speaker Series
+ - Workshop
+ - R Ladies
+ - Stattag
 subtitle: 'Thursday, September 26, 2019'
 summary: 'Thursday, September 26, 2019'
 authors: []
@@ -21,7 +25,8 @@ header:
   caption: 
 ---
 
-<img alt = '' width='300' src='/img/events/coding.png' align="right" style="margin: 0px 10px 0px 0px;"/>
+ <img alt = '' width='300' src='otherimages.png' align="right" style="margin: 0px 10px 0px 0px;"/>
+
 
 ## Date and Time  
 Thursday, September 26, 2019  
