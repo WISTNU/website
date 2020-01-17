@@ -17,7 +17,7 @@ image:
   preview_only: true
 projects: []
 ---
-<img alt = 'my new screenshot' width='200' src='/img/Books/WeaponsofMathDestruction.jpg' align="left" style="margin: 0px 10px 0px 0px;"/>  
+<img alt = 'my new screenshot' width='200' src='featured.jpg' align="left" style="margin: 0px 10px 0px 0px;"/>  
 
 ## Description from Cover   
 
