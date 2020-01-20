@@ -39,6 +39,7 @@ Please RSVP to Mena Whalen, menawhalen2020@u.northwestern.edu
 **Speaker: [Alecia Wartowski](https://flipturnconsulting.com/who-we-are)**  
 Alecia Wartowski is a consultant who will present on negotiating contracts, focuses on tips for women.  The event includes questions and answers as well as role playing.  
 
+#### Docuements  
 [Slides from Talk](Slides.pdf)  
 [Negotiating Salary Role Play: Academic Job](Academic.pdf)  
 [Negotiating Salary Role Play: Industry Job](Industry.pdf)  

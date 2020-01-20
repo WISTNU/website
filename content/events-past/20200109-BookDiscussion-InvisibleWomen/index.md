@@ -21,7 +21,7 @@ header:
   caption: 
 ---
 
-## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}})
+## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}}) Book Discussion
 
 #### WIST Discussion  
 Tuesday, January 9th at 6:00pm   
@@ -31,8 +31,8 @@ Hosted at WIST Member's Residence
 Thursday, January 16th at 4:30 pm  
 West Fairchild, 1861 Sheridan Road  
 
-### RSVP  
+## RSVP  
 Please send RSVP's to Abby Smith, als1@u.northwestern.edu
 
-
-[Flyer for Event](flyer.pdf)
+#### Docuements 
+[Event Flyer](flyer.pdf)

@@ -9,23 +9,23 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Type of Events"
+  url = "#events-types"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Upcoming Events"
+  url = "#events-current"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Past Events"
+  url = "#events-past"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Book Club"
+  url = "#books"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
