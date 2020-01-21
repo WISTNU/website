@@ -5,16 +5,20 @@ date: '2020-02-20'
 slug: sally-morton
 categories: []
 tags: []
-subtitle: ''
-summary: ''
+subtitle: 'Wednesday, February 19, 2020'
+summary: 'Wednesday, February 19, 2020'
 authors: []
 lastmod: '2020-01-20T15:05:16-06:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
-  preview_only: yes
+  preview_only: true
 projects: []
+
+header:
+  image:   
+  caption: 
 ---
 
 <img alt = '' width='300' src='sallymortonpicture.jpg' align="right" style="margin: 0px 10px 0px 0px;"/>
