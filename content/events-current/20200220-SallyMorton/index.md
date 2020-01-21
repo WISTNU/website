@@ -1,14 +1,14 @@
 ---
-title: 'Sally Morton'
+title: 'Book Discussion: Invisible Women '
 author: ''
-date: '2020-02-20'
-slug: sally-morton
+date: '2020-01-09'
+slug: 20190109-BookDiscussion-InvisibleWomen
 categories: []
 tags: []
-subtitle: 'Wednesday, February 19, 2020'
-summary: 'Wednesday, February 19, 2020'
+subtitle: 'Tuesday, January 9, 2020'
+summary: 'Tuesday, January 9, 2020'
 authors: []
-lastmod: '2020-01-20T15:05:16-06:00'
+lastmod: '2019-12-23T22:03:09-06:00'
 featured: no
 image:
   caption: ''
@@ -21,15 +21,18 @@ header:
   caption: 
 ---
 
-<img alt = '' width='300' src='sallymortonpicture.jpg' align="right" style="margin: 0px 10px 0px 0px;"/>
+## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}}) Book Discussion
 
-## About Sally Morton  
-Morton is internationally recognized in the use of statistics and data science to help patients make better healthcare decisions. She has been involved in projects across a wide range of clinical and societal topics such as back pain, healthcare quality, homelessness, mental health, and substance abuse. She has collaborated on numerous patient-centered comparative effectiveness research projects, including observational studies and pragmatic trials. Her methodological research focuses on evidence synthesis, particularly the aggregation of studies via meta-analysis.  
+#### WIST Discussion  
+Tuesday, January 9th at 6:00pm   
+Hosted at WIST Member's Residence 
 
-Morton joined the College of Science at Virginia Tech as Dean in 2016. Previously, she was chair of Biostatistics at the University of Pittsburgh, vice president for statistics and epidemiology at RTI International, and head of the RAND Corporation Statistics Group. Morton served as president of the American Statistical Association (ASA) and is a Fellow of the ASA and the American Association for the Advancement of Science. She received the Janet L. Norwood Award for Outstanding Achievement by a Woman in the Statistical Sciences in 2017. 
+#### International Studies Residential College Discussion  
+Thursday, January 16th at 4:30 pm  
+West Fairchild, 1861 Sheridan Road  
 
-## Public Talk  
+## RSVP  
+Please send RSVP's to Abby Smith, als1@u.northwestern.edu
 
-## Meeting with WIST members  
-
-#### Documents 
+#### Docuements 
+[Event Flyer](flyer.pdf)
