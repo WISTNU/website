@@ -21,18 +21,15 @@ header:
   caption: 
 ---
 
-## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}}) Book Discussion
+<img alt = '' width='300' src='sallymortonpicture.jpg' align="right" style="margin: 0px 10px 0px 0px;"/>
 
-#### WIST Discussion  
-Tuesday, January 9th at 6:00pm   
-Hosted at WIST Member's Residence 
+## About Sally Morton  
+Morton is internationally recognized in the use of statistics and data science to help patients make better healthcare decisions. She has been involved in projects across a wide range of clinical and societal topics such as back pain, healthcare quality, homelessness, mental health, and substance abuse. She has collaborated on numerous patient-centered comparative effectiveness research projects, including observational studies and pragmatic trials. Her methodological research focuses on evidence synthesis, particularly the aggregation of studies via meta-analysis.  
 
-#### International Studies Residential College Discussion  
-Thursday, January 16th at 4:30 pm  
-West Fairchild, 1861 Sheridan Road  
+Morton joined the College of Science at Virginia Tech as Dean in 2016. Previously, she was chair of Biostatistics at the University of Pittsburgh, vice president for statistics and epidemiology at RTI International, and head of the RAND Corporation Statistics Group. Morton served as president of the American Statistical Association (ASA) and is a Fellow of the ASA and the American Association for the Advancement of Science. She received the Janet L. Norwood Award for Outstanding Achievement by a Woman in the Statistical Sciences in 2017. 
 
-## RSVP  
-Please send RSVP's to Abby Smith, als1@u.northwestern.edu
+## Public Talk  
 
-#### Docuements 
+## Meeting with WIST members  
 
+#### Documents 
