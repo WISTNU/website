@@ -5,8 +5,8 @@ date: '2020-01-21' #can't do a date in the future lol
 slug: 20190109-BookDiscussion-InvisibleWomen
 categories: []
 tags: []
-subtitle: 'Tuesday, January 9, 2020'
-summary: 'Tuesday, January 9, 2020'
+subtitle: 'Wednesday, February 19, 2020'
+summary: 'Wednesday, February 19, 2020'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
 featured: no
