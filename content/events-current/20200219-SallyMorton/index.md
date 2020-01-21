@@ -1,7 +1,7 @@
 ---
 title: 'Sally Morton'
 author: ''
-date: '2020-01-21'
+date: '2020-01-22'
 slug: 20190109-BookDiscussion-InvisibleWomen
 categories: []
 tags: []
