@@ -2,7 +2,7 @@
 title: 'WIST Members'
 author: ''
 date: '2019-12-23'
-slug: executive-board
+slug: members
 categories: []
 tags:
 subtitle: ''

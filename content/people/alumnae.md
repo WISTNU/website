@@ -2,7 +2,7 @@
 title: 'WIST Alumnae'
 author: ''
 date: '2019-12-23'
-slug: executive-board
+slug: alumnae
 categories: []
 tags:
 subtitle: ''
@@ -42,19 +42,12 @@ $(document).ready(function(){
 <table>
   <thead>
 
-<tr><th> First</th> <th>Name</th> <th>WIST Role</th> <th>Department</th> <th>Position</th></tr>
-
+<tr><th> First</th> <th>Last</th> <th>Degree(s)</th> <th>Department(s)</th> <th>Position</th> <th>Organization</th> <th>Email</th></tr>
 
   </thead>
   <tbody id="myTable">
 
-<tr><td> Martha</td> <td>Eichlersmith</td> <td>Member</td> <td>Statistics</td> <td>Graduate Student, PhD</td></tr>
-<tr><td> Yajun</td> <td>Liu</td> <td>Executive Board</td> <td>Statistics</td> <td>Graduate Student, PhD</td></tr>
-<tr><td> Noelle</td> <td>Samia</td> <td>Faculty Chair</td> <td>Statistics</td> <td>Faculty</td></tr>
-<tr><td> Abby</td> <td>Smith</td> <td>Executive Board</td> <td>Statistics</td> <td>Graduate Student, PhD</td></tr>
-<tr><td> Mena</td> <td>Whalen</td> <td>Executive Board</td> <td>Statistics</td> <td>Graduate Student, PhD</td></tr>
-<tr><td> Rrita</td> <td>Zejnullahi</td> <td>Executive Board</td> <td>Statistics</td> <td>Graduate Student, PhD</td></tr>
-
+<tr><td> Mindy</td> <td>Hong</td> <td>PhD, MSPH</td> <td>Statistics</td> <td>Postdoctoral Researcher</td> <td>Northwestern University Department of Dermatology - Feinberg School of Medicine</td> <td></td></tr>
 
 
 
