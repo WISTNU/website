@@ -9,9 +9,9 @@ primary = "rgb(118, 093, 160)" #purple 70
 
 # Menu
 menu_primary = "rgb(147, 128, 182)" #purple 50
-menu_text = "rgb(228, 224, 238)" #purple 10"
+menu_text = "rgb(255, 255, 255)"
 menu_text_active = "rgb(078, 042, 132)" #NW purple
-menu_title = "rgb(228, 224, 238)" #purple 10"
+menu_title = "rgb(255, 255, 255)"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
@@ -24,3 +24,4 @@ home_section_even = "rgb(247, 247, 247)"
 #"rgb(078, 042, 132)" #NW purple
 #"rgb(118, 093, 160)" #purple 70
 #"rgb(147, 128, 182)" #purple 50
+#"rgb(228, 224, 238)" #purple 10"
