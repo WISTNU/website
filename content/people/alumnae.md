@@ -1,5 +1,5 @@
 ---
-title: 'WIST Members'
+title: 'WIST Alumnae'
 author: ''
 date: '2019-12-23'
 slug: executive-board

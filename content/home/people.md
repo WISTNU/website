@@ -17,5 +17,5 @@ subtitle = ""
 
 ### [Current members]( {{< relref "people/members" >}})
 
-### WIST Alumni
+### [Alumnae]( {{< relref "people/alumnae" >}})
 
