@@ -1,18 +1,26 @@
 # Theme metadata
-name = "Minimal"
+name = "WIST"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "rgb(078, 042, 132)" #NW purplre
+primary = "rgb(118, 093, 160)" #purple 70
 
 # Menu
-menu_primary = "rgb(247, 247, 247)"
-menu_text = "rgb(30, 30, 30)"
-menu_text_active = "rgb(118, 093, 160)" #purple 70
-menu_title = "rgb(30, 30, 30)"
+menu_primary = "rgb(147, 128, 182)" #purple 50
+menu_text = "rgb(228, 224, 238)" #purple 10"
+menu_text_active = "rgb(078, 042, 132)" #NW purple
+menu_title = "rgb(228, 224, 238)" #purple 10"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
+
+
+#"rgb(244, 240, 255)"
+
+
+#"rgb(078, 042, 132)" #NW purple
+#"rgb(118, 093, 160)" #purple 70
+#"rgb(147, 128, 182)" #purple 50
