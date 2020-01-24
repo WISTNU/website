@@ -23,6 +23,8 @@ header:
 
 ## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}}) Book Discussion
 
+[Invisible Women](content/books/202001-InvisibleWomen.md)
+
 #### WIST Discussion  
 Tuesday, January 9th at 6:00pm   
 Hosted at WIST Member's Residence 
