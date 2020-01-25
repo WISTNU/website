@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "female" #volume-up
+  icon = "female" 
   icon_pack = "fas"
   name = "Speaker Series"
   description = "WIST strives to extend the professional networks of its members by having access to female leaders in the field of statistics.  These speakers include academics and industry professionals."
