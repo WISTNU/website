@@ -5,8 +5,8 @@ date: '2019-11-15'
 slug: 20191115-brownbag
 categories: []
 tags: []
-subtitle: 'Friday, November 15, 2019'
-summary: 'Friday, November 15, 2019'
+subtitle: ''
+summary: 'Friday, November 15, 2019 from 11:00 AM - 12:30 PM'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
 featured: no

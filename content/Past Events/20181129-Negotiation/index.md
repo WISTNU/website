@@ -5,8 +5,8 @@ date: '2018-11-27'
 slug: 20181127-Negotiating
 categories: []
 tags: []
-subtitle: 'Tuesday, November 27, 2018'
-summary: 'Tuesday, November 27, 2018'
+subtitle: ''
+summary: 'Tuesday, November 27, 2018 from 5:00 - 6:00 PM'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
 featured: no

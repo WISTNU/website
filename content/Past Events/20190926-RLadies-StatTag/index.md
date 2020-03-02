@@ -9,8 +9,8 @@ tags:
  - Workshop
  - R Ladies
  - Stattag
-subtitle: 'Thursday, September 26, 2019'
-summary: 'Thursday, September 26, 2019'
+subtitle: ''
+summary: 'Thursday, September 26, 2019 from 4:30 - 6:30 PM'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
 featured: no
