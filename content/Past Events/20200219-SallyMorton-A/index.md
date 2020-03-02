@@ -2,9 +2,12 @@
 title: 'Sally C. Morton: Lunch with Undergraduates'
 author: ''
 date: '2020-02-19' #can't do a date in the future lol
-slug: sally-morton-undergrad-lunch
+slug: 20200219-SallyCMorton-undergradlunch
 categories: []
-tags: []
+tags: 
+  - Speaker Series
+  - Sally C. Morton
+  - Group Meals
 subtitle: ''
 summary: 'Wednesday, February 19, 2020 from 12:00 - 1:30 PM'
 authors: []

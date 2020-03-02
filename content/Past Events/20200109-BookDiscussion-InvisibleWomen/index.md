@@ -4,7 +4,8 @@ author: ''
 date: '2020-01-09'
 slug: 20190109-BookDiscussion-InvisibleWomen
 categories: []
-tags: []
+tags: 
+  - Discussions
 subtitle: 'Tuesday, January 9, 2020'
 summary: 'Tuesday, January 9, 2020'
 authors: []

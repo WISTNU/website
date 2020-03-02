@@ -2,9 +2,12 @@
 title: 'Sally C. Morton: Discussion with Graduates'
 author: ''
 date: '2020-02-19' #can't do a date in the future lol
-slug: sally-morton-graduate-discussion
+slug: 20200219-SallyCMorton-graddiscussion
 categories: []
-tags: []
+tags: 
+  - Speaker Series
+  - Sally C. Morton
+  - Discussions
 subtitle: ''
 summary: 'Wednesday, February 19, 2020 from 2:00 - 3:00 PM'
 authors: []

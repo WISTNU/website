@@ -27,8 +27,6 @@ header:
 
  <img alt = '' width='300' src='otherimages.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 
-
-## Date and Time  
 Thursday, September 26, 2019  
 4:30 PM to 6:30 PM   
 [Mudd Library](https://www.library.northwestern.edu/libraries-collections/mudd-library/)  
@@ -40,7 +38,7 @@ This event is co-sponsored by [R-Ladies Chicago](https://rladieschicago.org/) an
 ## Speaker: [Leah Welty, Ph.D](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17279)  
 Professor of Preventive Medicine (Biostatistics) and Psychiatry and Behavior Science and lead developer of StatTag at Northwestern 
 
-## Want to automatically update your Word document iwth R outputs? Lear StatTag!  
+## Want to automatically update your Word document with R outputs? Lear StatTag!  
 This event will teach participants how to use [StatTag](https://sites.northwestern.edu/stattag/) 
 (free, open source software) to create a bi-directional
 connection between R/RMarkdown and a Word

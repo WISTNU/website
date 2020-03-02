@@ -2,9 +2,11 @@
 title: 'Sally C. Morton Public Lecture: Lessons Learned as a Statistician'
 author: ''
 date: '2020-02-19' #can't do a date in the future lol
-slug: sally-morton-public-lecture
+slug: 20200219-SallyCMorton-lecture
 categories: []
-tags: []
+tags: 
+  - Speaker Series
+  - Sally C. Morton
 subtitle: ''
 summary: 'Wednesday, February 19, 2020 at 3:30 PM'
 authors: []

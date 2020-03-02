@@ -4,7 +4,9 @@ author: ''
 date: '2018-11-27'
 slug: 20181127-Negotiating
 categories: []
-tags: []
+tags: 
+  - Speaker Series
+  - Workshops
 subtitle: ''
 summary: 'Tuesday, November 27, 2018 from 5:00 - 6:00 PM'
 authors: []
@@ -23,8 +25,6 @@ header:
 #<img alt = '' width='200' src='/img/events/combine-speaker+workshop.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 ---
 
-
-## Date and Time  
 Thursday, November 27, 2018  
 5:00 PM to 6:00 PM   
 Statistics Department  
@@ -35,8 +35,7 @@ Dinner Provided
 Please RSVP to Mena Whalen, menawhalen2020@u.northwestern.edu 
 
 
-## Event  
-**Speaker: [Alecia Wartowski](https://flipturnconsulting.com/who-we-are)**  
+## Speaker: [Alecia Wartowski](https://flipturnconsulting.com/who-we-are)
 Alecia Wartowski is a consultant who will present on negotiating contracts, focuses on tips for women.  The event includes questions and answers as well as role playing.  
 
 #### Docuements  
