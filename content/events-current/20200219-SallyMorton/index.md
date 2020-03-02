@@ -2,7 +2,7 @@
 title: 'Sally Morton'
 author: ''
 date: '2020-01-21' #can't do a date in the future lol
-slug: 20190109-BookDiscussion-InvisibleWomen
+slug: sally-morton
 categories: []
 tags: []
 subtitle: 'Wednesday, February 19, 2020'
