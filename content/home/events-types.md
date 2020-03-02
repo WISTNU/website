@@ -30,8 +30,8 @@ subtitle = ""
 [[feature]]
   icon = "utensils"
   icon_pack = "fas"
-  name = "Group Lunches"
-  description = "An important tool for women to identify and resolve gender-related obstacles is to have support from a community or network.   Once a quarter members of WIST will meet to have lunch.  The lunches are an opportunity to strengthen the WIST network.  "
+  name = "Group Meals"
+  description = "An important tool for women to identify and resolve gender-related obstacles is to have support from a community or networks.  The meals are an opportunity to strengthen the WIST network.  "
   
 [[feature]]
   icon = "tools" #laptop-code
