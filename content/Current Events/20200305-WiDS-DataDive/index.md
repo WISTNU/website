@@ -2,7 +2,7 @@
 title: 'Women in Data Science (WiDS): Data Dive'
 author: ''
 date: '2020-03-01' #can't do a date in the future lol
-slug: WiDS-2020
+slug: 20200305-WiDS-datadive
 categories: []
 tags: []
 subtitle: ''
@@ -20,11 +20,10 @@ header:
   image:   
   caption: 
   
-#<img alt = '' width='300' src='WiDSLogo.png' align="right" style="margin: 0px 10px 0px 0px;"/>
-#<img alt = '' width='300' src='DataDiveLogo.png' align="right" style="margin: 0px 10px 0px 0px;"/>
+
 ---
 
-<img alt = '' width='30' src='DataDiveLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
+<img alt = '' width='300' src='DataDiveLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
 
 Thursday, March 5, 2020  
 5:00 to 8:00 pm  

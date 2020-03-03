@@ -2,7 +2,7 @@
 title: 'Women in Data Science (WiDS): Conference'
 author: ''
 date: '2020-03-02' #can't do a date in the future lol
-slug: WiDS-2020
+slug: 20200306-WiDS-conference
 categories: []
 tags: []
 subtitle: ''
