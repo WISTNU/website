@@ -15,7 +15,5 @@ subtitle = ""
 
 ### [Executive Board]( {{< relref "people/executiveboard" >}})
 
-### [Current members]( {{< relref "people/members" >}})
-
 ### [Alumnae]( {{< relref "people/alumnae" >}})
 

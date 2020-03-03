@@ -41,16 +41,23 @@ $(document).ready(function(){
 
 <table>
   <thead>
+<!-- PUT THE TABLE HEADER BETWEEN THESE TWO LINES -->
 
-<tr><th> First</th> <th>Last</th> <th>Degree(s)</th> <th>Department(s)</th> <th>Position</th> <th>Organization</th> <th>Email</th></tr>
+<tr><th> Name</th> <th>Position</th> <th>Organization</th> </tr>
 
+<!-- PUT THE TABLE HEADER BETWEEN THESE TWO LINES -->
   </thead>
   <tbody id="myTable">
 
-<tr><td> Mindy</td> <td>Hong</td> <td>PhD, MSPH</td> <td>Statistics</td> <td>Postdoctoral Researcher</td> <td>Northwestern University Department of Dermatology - Feinberg School of Medicine</td> <td></td></tr>
+<!-- PUT THE TABLE BODY BETWEEN THESE TWO LINES -->
 
 
+<tr><td> Mindy Hong (2019)</td> <td>Postdoctoral Researcher</td> <td>Northwestern University Department of Dermatology - Feinberg School of Medicine</td> </tr>
+<tr><td> Minhai Zheng (2019)</td> <td>Data Scientist</td> <td>Capital One</td> </tr>
+<tr><td> Wenqian Wang (2019)</td> <td>Data Scientist</td> <td>LinkedIn</td> </tr>
 
+
+<!-- PUT THE TABLE BODY BETWEEN THESE TWO LINES -->
 </tbody>
 </table>
   
