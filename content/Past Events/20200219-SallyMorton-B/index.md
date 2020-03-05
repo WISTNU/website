@@ -36,3 +36,5 @@ This moderated discussion is open to all graduate students and will primarily fo
   
 ## About Sally C. Morton  
 Sally C. Morton is Dean of the College of Science, Interim Director of the Fralin Life Sciences Institute, and Professor of Statistics at Virginia Tech. Her methodological work focuses on evidence synthesis, particularly meta-analysis, and patient-centered comparative effectiveness research. Previously, she was chair of the Biostatistics Department at the University of Pittsburgh, vice president for statistics and epidemiology at RTI International, and head of the RAND Corporation Statistics Group. She is currently a member of the National Center for Health Statistics Board of Scientific Counselors, the National Collaborative on Gun Violence Research Advisory Committee, and the Patient-Centered Outcomes Research Institute Methodology Committee. Dr. Morton served as the 2009 president of the American Statistical Association and received a PhD in statistics from Stanford University.  
+
+{{< gallery album="album" >}}
