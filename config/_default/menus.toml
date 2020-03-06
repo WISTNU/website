@@ -9,13 +9,13 @@
   weight = 2
 
 [[main]]
-  name = "Upcoming Events"
-  url = "#events-current"
+  name = "Current Events"
+  url = "#current"
   weight = 3
 
 [[main]]
   name = "Past Events"
-  url = "#events-past1"
+  url = "#events"
   weight = 4
 
 
