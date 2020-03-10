@@ -23,9 +23,10 @@ header:
 #<img alt = '' width='300' src='DataDiveLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
 #<img alt = '' width='300' src='WiDSLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
 ---
-<div style="float:right; width:300px;">
-<img src='DataDiveLogo.png'  width='300' style="margin: 10px 10px 10px 10px;"/>
-<img src='WiDSLogo.png'      width='300' style="margin: 10px 10px 10px 10px;"/>
+<div style="float:right; width:300px; margin:10px;">
+<img src='DataDiveLogo.png' style="margin: 0px 0px 0px 0px;"/>
+<br>
+<img src='WiDSLogo.png'     style="margin: 0px 0px 0px 0px;"/>
 </div>  
 
 Thursday, March 5, 2020  
