@@ -20,15 +20,18 @@ header:
   image:   
   caption: 
   
-
+#<img alt = '' width='300' src='DataDiveLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
+#<img alt = '' width='300' src='WiDSLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
 ---
-
-<img alt = '' width='300' src='DataDiveLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
+<div style="float:right; width:300px;">
+<img src='DataDiveLogo.png'  width='300' style="margin: 10px 10px 10px 10px;"/>
+<img src='WiDSLogo.png'      width='300' style="margin: 10px 10px 10px 10px;"/>
+</div>  
 
 Thursday, March 5, 2020  
 5:00 to 8:00 pm  
 TGS Commons  
-<img alt = '' width='300' src='WiDSLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
+
 2122 Sheridan Road  
 Evanston, IL 
 
