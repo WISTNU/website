@@ -25,7 +25,11 @@ header:
   caption: 
 ---
 
- <img alt = '' width='300' src='otherimages.png' align="right" style="margin: 0px 10px 0px 0px;"/>
+<div style="float:right; width:300px; margin:10px;">
+<img src='RLadiesLogo.jpg' style="margin: 0px;"/>
+<br>
+<img src='stattag.png'     style="margin: 0px;"/>
+</div>  
 
 Thursday, September 26, 2019  
 4:30 PM to 6:30 PM   

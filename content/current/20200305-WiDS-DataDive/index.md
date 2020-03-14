@@ -20,8 +20,6 @@ header:
   image:   
   caption: 
   
-#<img alt = '' width='300' src='DataDiveLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
-#<img alt = '' width='300' src='WiDSLogo.png' align="right" style="margin: 10px 10px 10px 10px;"/>
 ---
 <div style="float:right; width:300px; margin:10px;">
 <img src='DataDiveLogo.png' style="margin: 0px;"/>
