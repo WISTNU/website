@@ -22,7 +22,6 @@ header:
   image: 
   caption: 
   
-#<img alt = '' width='200' src='/img/events/combine-speaker+workshop.png' align="right" style="margin: 0px 10px 0px 0px;"/>
 ---
 
 Thursday, November 27, 2018  
