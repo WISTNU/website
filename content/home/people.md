@@ -27,7 +27,6 @@ subtitle = ""
   <tr> <td> Undergraduate Representative </td> <td> Kaylee Guajardo </td> <td> <a href='mailto:kayleeguajardo2020@u.northwestern.edu'>Email</a> </td> </tr>
    </table>
 
-<br>
 
 ## [Alumnae]( {{< relref "people/alumnae" >}})
 
