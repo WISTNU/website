@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "Upcoming Events"
+title = "Current Events"
 subtitle = ""
 
 [content]
@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+There are no immediately upcoming WIST events.  Please check back later.  
