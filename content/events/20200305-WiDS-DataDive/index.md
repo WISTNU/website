@@ -4,7 +4,9 @@ author: ''
 date: '2020-03-01' #can't do a date in the future lol
 slug: 20200305-WiDS-datadive
 categories: []
-tags: []
+tags: 
+  - WiDS
+  - Data Dive 
 subtitle: ''
 summary: 'Thursday, March 5, 2020 from 5:00 - 8:00 PM'
 authors: []
