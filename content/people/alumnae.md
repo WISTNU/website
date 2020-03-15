@@ -17,7 +17,6 @@ image:
 projects: []
 
 ---
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,26 +42,28 @@ $(document).ready(function(){
   <thead>
 <!-- PUT THE TABLE HEADER BETWEEN THESE TWO LINES -->
 
-<tr><th> Name</th> <th>Position</th> <th>Organization</th> </tr>
+<tr><th> Name</th> <th>Position</th> <th>Organization</th>  </tr>
 
 <!-- PUT THE TABLE HEADER BETWEEN THESE TWO LINES -->
   </thead>
   <tbody id="myTable">
 
 <!-- PUT THE TABLE BODY BETWEEN THESE TWO LINES -->
+<!-- BODY OUTPUT FROM R SCRIPT GOES HERE --> 
 
 
-<tr><td> Mindy Hong (2019)</td> <td>Postdoctoral Researcher</td> <td>Northwestern University Department of Dermatology - Feinberg School of Medicine</td> </tr>
-<tr><td> Minhai Zheng (2019)</td> <td>Data Scientist</td> <td>Capital One</td> </tr>
-<tr><td> Wenqian Wang (2019)</td> <td>Data Scientist</td> <td>LinkedIn</td> </tr>
+<!-- html table generated in R 3.6.1 by xtable 1.8-4 package -->
+<!-- Sun Mar 15 12:04:32 2020 -->
+  <tr> <td> Mindy Hong (2019) </td> <td> Postdoctoral Researcher </td> <td> Northwestern University Department of Dermatology - Feinberg School of Medicine </td> </tr>
+  <tr> <td> Wenqian Wang (2019) </td> <td> Data Scientist </td> <td> LinkedIn </td> </tr>
+  <tr> <td> Minhai Zheng (2019) </td> <td> Data Scientist </td> <td> Capital One </td> </tr>
+
+
 
 
 <!-- PUT THE TABLE BODY BETWEEN THESE TWO LINES -->
 </tbody>
 </table>
-  
-
-
 </body>
 </html>
 
