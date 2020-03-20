@@ -16,7 +16,7 @@ subtitle = ""
 
 +++
 
-<img alt = '' width='30%' src='img/currentreading.jpg' align="right" style="margin:15px;"/> 
+<img alt = '' width='30%' src='img/commonreading.jpg' align="right" style="margin:15px;"/> 
 <h1> Common Reading </h1>
 <h2>
 <b> Invisible Woman: Invisible Women: Data Bias in a World Designed for Men </b>
