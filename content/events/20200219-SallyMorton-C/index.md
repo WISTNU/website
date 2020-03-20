@@ -34,7 +34,7 @@ Transportation Center, 600 Foster Street
 
 <i> Event co-sponsored by the <b>McCormick School of Engineering and Applied Science Industrial Engineering and Management Sciences </b> and the<b> Association of Women in Mathmetatics </b> </i>  
 
-<img alt = '' width='300' src='sallymortonpicture.jpg' align="right" style="margin: 10px 10px 10px 10px;"/>
+<img alt = '' width=40% src='sallymortonpicture.jpg' align="right" style="margin: 10px;"/>
   
 ## About Sally C. Morton  
 Sally C. Morton is Dean of the College of Science, Interim Director of the Fralin Life Sciences Institute, and Professor of Statistics at Virginia Tech. Her methodological work focuses on evidence synthesis, particularly meta-analysis, and patient-centered comparative effectiveness research. Previously, she was chair of the Biostatistics Department at the University of Pittsburgh, vice president for statistics and epidemiology at RTI International, and head of the RAND Corporation Statistics Group. She is currently a member of the National Center for Health Statistics Board of Scientific Counselors, the National Collaborative on Gun Violence Research Advisory Committee, and the Patient-Centered Outcomes Research Institute Methodology Committee. Dr. Morton served as the 2009 president of the American Statistical Association and received a PhD in statistics from Stanford University.  
