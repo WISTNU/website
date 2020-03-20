@@ -21,10 +21,10 @@ header:
   image:   
   caption: 
 ---
+<img alt = '' width=40% src='InvisibleWomen.jpg' align="right" style="margin: 10px;"/>  
 
-## [Invisible Women]( {{< relref "books/202001-InvisibleWomen" >}}) Book Discussion
+[Invisible Women Book Description]( {{< relref "books/202001-InvisibleWomen" >}})
 
-[Invisible Women](content/books/202001-InvisibleWomen.md)
 
 #### WIST Discussion  
 Tuesday, January 9th at 6:00pm   
