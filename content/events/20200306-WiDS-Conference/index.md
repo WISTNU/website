@@ -22,7 +22,7 @@ header:
   caption: 
   
 ---
-## Go to the [WiDS Chicago Website](https://widschicago.org/) for Details  
+## Go to the [WiDS Chicago Website](https://widschicago.org/) for details  
 
 
 <img alt = '' width='300' src='WiDS.png' align="right" style="margin: 10px 10px 10px 10px;"/>
