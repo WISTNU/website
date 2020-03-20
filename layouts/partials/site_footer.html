@@ -1,0 +1,38 @@
+<footer class="site-footer" style="padding-top:0px;">
+
+<!-- WIST LOGO -->
+<center>
+      <img alt = '' width='40%' src='/img/WIST-withname.png' style="margin: 15px;"/>
+    </center> <!-- end WIST LOGO  -->
+
+
+<!-- NORTHWESTERN -->
+<p class="powered-by">
+WIST is a student organization at
+      <a href="https://www.northwestern.edu/" target="_blank" rel="noopener">
+        Northwestern Univeristy</a>.
+    </p> <!-- end NORTHWESTERN  -->
+
+  <!-- TERMS AND PRIVACY   -->
+{{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}   <!-- END TERMS AND PRIVACY   -->
+
+<!-- POWERED BY -->
+<p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+  </p> <!-- end POWERED BY -->
+
+
+</footer>
