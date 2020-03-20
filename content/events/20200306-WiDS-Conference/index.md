@@ -20,6 +20,7 @@ projects: []
 header:
   image:   
   caption: 
+  
 ---
 ## Go to the [WiDS Chicago Website](https://widschicago.org/) for Details  
 
@@ -34,5 +35,18 @@ Congress Lounge (2nd Floor)
 Chicago, IL 60605
 
 WiDS: Chicago is an independent event organized to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work.
+
+
+### Photos from the Conference
+{{< gallery album="photos" >}}
+
+### Special Thanks to WiDS Ambassadors
+
+<figure>
+  <img src="WiDSAmbassadors.jpg" alt="WiDS Ambassadors" style="width:80%">
+  <figcaption> Left to Right: Jess Freaner (IDEO), Sophie Hu (Univeristy of Chicago), Jane Zanzig (IDEO), Abby Stevens (University of Chicago), Abby Smith (WIST), Mena Whalen (WIST) </figcaption>
+</figure> 
+
+
 
 

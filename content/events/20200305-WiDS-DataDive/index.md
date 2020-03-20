@@ -38,3 +38,4 @@ Evanston, IL
 
 Participants will be emailed the dataset on February 27, 2020 (one week before the event). They will have one week to load the dataset in R/Python and answer preliminary exploratory questions. At the data dive event, they will be given a question of interest from the Greater Chicago Red Cross. Teams will be selected to have their work presented at the downtown Chicago event , the following day, on March 6, 2020. 
 
+## Go to the [WiDS Data Dive 2020 Website](https://menawhalen.github.io/WiDS_data_dive_2020/) for details 
