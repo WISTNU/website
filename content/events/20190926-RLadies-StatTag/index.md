@@ -25,7 +25,7 @@ header:
   caption: 
 ---
 
-<div style="float:right; width:300px; margin:10px;">
+<div style="float:right; width:40%; margin:10px;">
 <img src='RLadiesLogo.jpg' style="margin: 0px;"/>
 <br>
 <img src='stattag.png'     style="margin: 0px;"/>
@@ -36,7 +36,8 @@ Thursday, September 26, 2019
 [Mudd Library](https://www.library.northwestern.edu/libraries-collections/mudd-library/)  
 Dinner Provided  
 Please [RSVP](meetup.com/rladies-chicago)  
-This event is co-sponsored by [R-Ladies Chicago](https://rladieschicago.org/) and WIST.  
+  
+*This event is co-sponsored by [R-Ladies Chicago](https://rladieschicago.org/) and WIST.*
 
 
 ## Speaker: [Leah Welty, Ph.D](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17279)  
