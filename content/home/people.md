@@ -1,32 +1,62 @@
 +++
+# A "Meet the Team" section created with the People widget.
+# This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-widget = "accomplishments"
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = "People"
+title = "WIST Women"
 subtitle = ""
+#bottom title; need to have both title and link to another page 
+bottom = "Meet the WIST Alumnae"
+bottomlink = "people/alumnae"
+
+
+
+[content]
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = [
+                 "Faculty Chair",
+                 "Graduate Students",
+                 "Undergraduate Students",
+                 ]
 
 [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  # Show user's social networking links? (true/false)
+  show_social = true
+
+  # Show user's interests? (true/false)
+  show_interests = false
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
 
-## Contact Points  
-
-<!-- html table generated in R 3.6.1 by xtable 1.8-4 package -->
-<!-- Sun Mar 15 12:36:02 2020 -->
-<table >
-  <tr> <td> Faculty Chair </td> <td> Noelle Samia </td> <td>  </td> </tr>
-  <tr> <td> President </td> <td> Mena Whalen </td> <td> <a href='mailto:mcwhalen@u.northwestern.edu'>Email</a> </td> </tr>
-  <tr> <td> Speaker Co-Chair </td> <td> Rrita Zejnullahi </td> <td> <a href='mailto:RritaZejnullahi2020@u.northwestern.edu'>Email</a> </td> </tr>
-  <tr> <td> Speaker Co-Chair </td> <td> Yajun Liu </td> <td> <a href='mailto:YajunLiu2022@u.northwestern.edu'>Email</a> </td> </tr>
-  <tr> <td> Event Coordinator </td> <td> Abby Smith </td> <td> <a href='mailto:als1@u.northwestern.edu'>Email</a> </td> </tr>
-  <tr> <td> Inernal Communications </td> <td> Martha Eichlersmith </td> <td> <a href='mailto:mareichler@u.northwestern.edu'>Email</a> </td> </tr>
-  <tr> <td> Undergraduate Representative </td> <td> Kaylee Guajardo </td> <td> <a href='mailto:kayleeguajardo2020@u.northwestern.edu'>Email</a> </td> </tr>
-   </table>
-
-
-## [Alumnae]( {{< relref "people/alumnae" >}})
 
