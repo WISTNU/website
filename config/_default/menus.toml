@@ -19,15 +19,16 @@
   weight = 4
 
 
-[[main]]
-  name = "People"
-  url = "#people"
-  weight = 5
-
 
 [[main]]
   name = "Common Reading"
   url = "#common-reading"
+  weight = 5
+
+
+[[main]]
+  name = "People"
+  url = "#people"
   weight = 6
 
 
