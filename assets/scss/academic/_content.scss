@@ -7,11 +7,19 @@ article {
   animation-delay: 0.15s;
 }
 
+//increase width of page; original max-width is 760px
 .article-container {
-  max-width: 760px;
+  max-width: 1000px;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
 }
+
+/* from bootstrap_variable.scss
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1200px
+*/
 
 .page-subtitle {
   font-size: 1.15rem;
