@@ -11,7 +11,7 @@ title = "WIST Women"
 subtitle = ""
 #bottom title; need to have both title and link to another page 
 bottom = "Meet the WIST Alumnae"
-bottomlink = "people/alumnae"
+bottomlink = "women/alumnae"
 
 
 
