@@ -1,2 +1,0 @@
-# WIST website
-## Beta Version
