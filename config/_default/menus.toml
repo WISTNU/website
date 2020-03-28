@@ -5,33 +5,52 @@
 
 [[main]]
   name = "Events"
-  url = "eventshome#events-types"
+  url = ""
   weight = 20
   identifier = "eventshome"
 
 [[main]]
+  name = "Types of Events"
+  url = "eventshome#events-types"
+  weight = 21
+  parent = "eventshome"
+
+[[main]]
   name = "Current Events"
   url = "eventshome#current"
-  weight = 21
+  weight = 22
   parent = "eventshome"
 
 [[main]]
   name = "Past Events"
   url = "eventshome#events"
-  weight = 22
+  weight = 23
   parent = "eventshome"
 
 [[main]]
   name = "Common Reading"
   url = "eventshome#common-reading"
-  weight = 23
+  weight = 24
   parent = "eventshome"
 
 
 [[main]]
-  name = "People"
-  url = "#people"
+  name = "Women"
+  url = ""
   weight = 30
+  identifier = "womenhome"
+
+[[main]]
+  name = "Leadership"
+  url = "womenhome#WISTLeadership"
+  weight = 31
+  parent = "womenhome"
+
+[[main]]
+  name = "Alumnae"
+  url = "women/alumnae"
+  weight = 32
+  parent = "womenhome"
 
 
 # Link to a PDF of your resume/CV from the menu.
