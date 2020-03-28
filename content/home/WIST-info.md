@@ -13,12 +13,12 @@ subtitle = ""
   columns = "1"
 
 # ![WIST](img/WIST-acronym.png)
-
+# <img alt = 'WIST' width='90%' src='img/WIST-acronym.png' style="margin:10px;"/>
 +++
 
 
 
-<img alt = 'WIST' width='90%' src='img/WIST-acronym.png' style="margin:10px;"/> 
+ 
 
 # **Women in Statistics**   
 #### *Creating community to help women succeed*
