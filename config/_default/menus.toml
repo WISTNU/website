@@ -4,32 +4,53 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Type of Events"
-  url = "#events-types"
-  weight = 2
+  name = "Events"
+  url = ""
+  weight = 20
+  identifier = "eventshome"
+
+[[main]]
+  name = "Types of Events"
+  url = "eventshome#events-types"
+  weight = 21
+  parent = "eventshome"
 
 [[main]]
   name = "Current Events"
-  url = "#current"
-  weight = 3
+  url = "eventshome#current"
+  weight = 22
+  parent = "eventshome"
 
 [[main]]
   name = "Past Events"
-  url = "#events"
-  weight = 4
-
-
+  url = "eventshome#events"
+  weight = 23
+  parent = "eventshome"
 
 [[main]]
   name = "Common Reading"
-  url = "#common-reading"
-  weight = 5
+  url = "eventshome#common-reading"
+  weight = 24
+  parent = "eventshome"
 
 
 [[main]]
-  name = "People"
-  url = "#people"
-  weight = 6
+  name = "Women"
+  url = ""
+  weight = 30
+  identifier = "womenhome"
+
+[[main]]
+  name = "Leadership"
+  url = "womenhome#WISTLeadership"
+  weight = 31
+  parent = "womenhome"
+
+[[main]]
+  name = "Alumnae"
+  url = "women/alumnae"
+  weight = 32
+  parent = "womenhome"
 
 
 # Link to a PDF of your resume/CV from the menu.
