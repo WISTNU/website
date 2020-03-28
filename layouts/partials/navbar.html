@@ -54,12 +54,8 @@
         <li class="nav-item dropdown">
         <!-- add link so that when you click on the main menu text (that has submenu item, it will go to the link denoted in the menu.toml page-->
         <!-- in the original version, if a menu item had sub-menu items, the link for the main menu item did not go to the link -->
-        <!-- don't want the menu item to go the a link (even if you denoted it), delelte the following three lines with
-        <a href="#" class ="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-        -->
-          <a class="nav-link dropdown-toggle" aria-haspopup="true"
-          href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}
-          >
+        <!-- <a class="nav-link dropdown-toggle" aria-haspopup="true" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>   -->
+          <a href="#" class ="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
           </a>
