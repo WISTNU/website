@@ -23,7 +23,7 @@ header:
 ---
 <img alt = '' width=40% src='InvisibleWomen.jpg' align="right" style="margin: 10px;"/>  
 
-[Invisible Women Book Description]( {{< relref "books/202001-InvisibleWomen" >}})
+[Invisible Women Book Description]( {{< relref "books/InvisibleWomen" >}})
 
 
 #### WIST Discussion  
