@@ -38,19 +38,19 @@
   name = "Women"
   url = ""
   weight = 30
-  identifier = "womenhome"
+  identifier = "women"
 
 [[main]]
   name = "Leadership"
-  url = "womenhome#WISTLeadership"
+  url = "women#leadership"
   weight = 31
-  parent = "womenhome"
+  parent = "women"
 
 [[main]]
   name = "Alumnae"
-  url = "women/alumnae"
+  url = "alumnae"
   weight = 32
-  parent = "womenhome"
+  parent = "women"
 
 
 # Link to a PDF of your resume/CV from the menu.
