@@ -1,21 +1,22 @@
-+++
-# A Skills section created with the Featurette widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+---
+title: 'WIST Alumnae'
+author: ''
+date: '2019-12-23'
+slug: alumnae
+categories: []
+tags:
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-12-23T14:00:01-06:00'
+featured: no
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: true
+projects: []
 
-title = "Alumnae"
-subtitle = ""
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-
-
-+++
-
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,10 +35,8 @@ $(document).ready(function(){
 </head>
 <body>
 
-<!-- UNCOMMENT WHEN WANT TO SEARCH 
 <input id="myInput" type="text" placeholder="Search..">
 <br><br>
---> 
 
 <table>
   <thead>
@@ -67,4 +66,5 @@ $(document).ready(function(){
 </table>
 </body>
 </html>
+
 
