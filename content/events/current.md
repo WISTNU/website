@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "current"
+  page_type = "current-events"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -64,6 +64,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+# There are no immediately upcoming WIST events.  Please check back later.  
 +++
 
-There are no immediately upcoming WIST events.  Please check back later.  
+
