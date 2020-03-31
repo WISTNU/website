@@ -7,31 +7,31 @@
   name = "Events"
   url = ""
   weight = 20
-  identifier = "eventshome"
+  identifier = "events"
 
 [[main]]
   name = "Types of Events"
-  url = "eventshome#events-types"
+  url = "events#events-types"
   weight = 21
-  parent = "eventshome"
+  parent = "events"
 
 [[main]]
   name = "Current Events"
-  url = "eventshome#current"
+  url = "events#current"
   weight = 22
-  parent = "eventshome"
+  parent = "events"
 
 [[main]]
   name = "Past Events"
-  url = "eventshome#events"
+  url = "events#events"
   weight = 23
-  parent = "eventshome"
+  parent = "events"
 
 [[main]]
   name = "Common Reading"
-  url = "eventshome#common-reading"
+  url = "events#common-reading"
   weight = 24
-  parent = "eventshome"
+  parent = "events"
 
 
 [[main]]
