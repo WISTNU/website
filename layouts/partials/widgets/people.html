@@ -47,11 +47,19 @@
     {{ end }}
     {{ if $src }}
       {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">
+      <!-- remove link with name, can put back in if fill write long bio on author pages -->
+      <!-- ORIGINAL:
       {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+      -->
     {{ end }}
 
     <div class="portrait-title">
+      <h2>{{ .Params.name }}</h2>
+      <!-- remove link with name, can put back in if fill write long bio on author pages -->
+      <!-- ORIGINAL:
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
+      -->
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
