@@ -5,7 +5,6 @@ date: '2019-12-23'
 slug: invisible-women
 categories: []
 tags:
-  - What we are reading
 subtitle: 'Caroline Criado Perez'
 summary: 'Caroline Criado Perez'
 authors: []

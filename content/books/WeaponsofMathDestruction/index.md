@@ -5,7 +5,6 @@ date: '2019-12-23'
 slug: weapons-of-math-destruction
 categories: []
 tags:
-  - What we want to read
 subtitle: 'Cathy O<span>&#39;</span>Neil'
 summary: 'Cathy O<span>&#39;</span>Neil'
 authors: []
