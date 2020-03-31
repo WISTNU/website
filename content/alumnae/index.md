@@ -35,8 +35,10 @@ $(document).ready(function(){
 </head>
 <body>
 
+<!-- SEARCH BAR: uncomment when have enough names 
 <input id="myInput" type="text" placeholder="Search..">
 <br><br>
+--!> 
 
 <table>
   <thead>
