@@ -5,13 +5,13 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 6  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "WIST Women"
 subtitle = ""
 #bottom title; need to have both title and link to another page 
 bottom = "Meet the WIST Alumnae"
-bottomlink = "women/alumnae"
+bottomlink = "/alumnae/"
 
 
 
