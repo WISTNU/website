@@ -27,11 +27,11 @@
   weight = 23
   parent = "events"
 
-[[main]]
-  name = "Common Reading"
-  url = "events#common-reading"
-  weight = 24
-  parent = "events"
+#[[main]]
+#  name = "Common Reading"
+#  url = "common-reading/"
+#  weight = 24
+#  parent = "events"
 
 
 [[main]]
