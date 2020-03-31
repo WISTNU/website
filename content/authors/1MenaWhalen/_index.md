@@ -44,3 +44,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
+Mena is the founding memeber of WIST and has been instramental in growing WIST into what it is today.  
