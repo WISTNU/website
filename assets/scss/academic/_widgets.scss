@@ -141,9 +141,12 @@
   line-height: 1;
 }
 
+
 .hero-lead {
-  max-width: 768px;
-  font-size: 1.35rem;
+    max-width: 100%; /*MAKE HERO TEXT FULL PAGE */
+/* ORIGINAL max-width: 768px; */
+  font-size: 1.5rem; /* make text larger */
+/*ORIGINAL: font-size: 1.35rem; */
 }
 
 .wg-hero.dark .hero-title,
@@ -151,6 +154,7 @@
 .wg-hero.dark .hero-cta-alt,
 .wg-hero.dark .hero-note > * {
   color: #fff;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
   /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/ /* Uncomment to standout on complicated backgrounds. */
 }
 
