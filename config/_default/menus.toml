@@ -17,20 +17,15 @@
 
 [[main]]
   name = "Current Events"
-  url = "_events#current"
+  url = "_events#list-of-events"
   weight = 22
   parent = "events"
 
-[[main]]
-  name = "Past Events"
-  url = "_events#past"
-  weight = 23
-  parent = "events"
 
 [[main]]
   name = "Common Reading"
   url = "common-reading/"
-  weight = 24
+  weight = 23
   parent = "events"
 
 
