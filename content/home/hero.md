@@ -38,7 +38,7 @@ image_parallax = true  # Use a fun parallax-like fixed background effect? true/f
 
 <br> 
 
-<div style="text-transform:uppercase; letter-spacing: 5px;"><h1> <b><big>
+<div style="text-transform:uppercase; letter-spacing: 3px;"><h1> <b><big>
   Women in Statistics 
 </big></b></h1></div> 
 
