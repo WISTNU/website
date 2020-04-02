@@ -11,7 +11,7 @@ subtitle: ''
 summary: 'Fridays during Spring 2020 Quarter '
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
