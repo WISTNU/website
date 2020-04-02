@@ -3,7 +3,7 @@ title: 'Book Discussion: Weapons of Math Destruction '
 toc: true
 author: ''
 date: '2020-01-09'
-slug: 202003-Discussion-WeaponsofMathDestruction
+slug: Discussion-WeaponsofMathDestruction
 categories: []
 tags: 
   - Discussions
