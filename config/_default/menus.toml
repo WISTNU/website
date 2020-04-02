@@ -16,7 +16,7 @@
   parent = "events"
 
 [[main]]
-  name = "Current Events"
+  name = "List of Events"
   url = "_events#list-of-events"
   weight = 22
   parent = "events"
