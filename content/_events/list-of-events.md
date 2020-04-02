@@ -8,11 +8,11 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "List of Events"
-subtitle = "Events"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "current-events"
+  page_type = "Events"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
