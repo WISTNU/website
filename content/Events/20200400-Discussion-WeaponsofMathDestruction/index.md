@@ -2,7 +2,7 @@
 title: 'Book Discussion: Weapons of Math Destruction '
 toc: true
 author: ''
-date: '2020-01-09'
+date: '2020-04-01'
 slug: 20200400-Discussion-WeaponsofMathDestruction
 categories: []
 tags: 
@@ -11,7 +11,7 @@ subtitle: ''
 summary: 'Fridays during Spring 2020 Quarter '
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: yes
+featured: no
 image:
   caption: ''
   focal_point: ''
