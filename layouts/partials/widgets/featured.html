@@ -7,6 +7,11 @@
 {{ $items_count := $st.Params.content.count | default 65535 }}
 {{ $items_sort := $st.Params.content.order| default "desc" }}
 
+
+{{/* add info so it will show a message if there are no upcomming events */}}
+{{ $next_event := $st.Params.content.next_event| default "true" }}
+{{ $message := $st.Params.content.message| default "" }}
+
 {{/* Query */}}
 {{ $query := where (where site.RegularPages "Type" $items_type) "Params.featured" true }}
 {{ $archive_page := site.GetPage "Section" $items_type }}
@@ -54,8 +59,15 @@
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
-xyz
-    {{ with $st.Content }}{{ . }}{{ end }}
+
+{{/* add info so it will show a message if there are no upcomming events */}}
+{{if eq $next_event "false"}}
+<p> {{ with $message}}{{ . | markdownify | emojify }}{{ end }} </p>
+{{end}}
+
+
+
+  {{ with $st.Content }}{{ . }}{{ end }}
 
     {{ range $post := $query }}
       {{ if eq $st.Params.design.view 1 }}
@@ -67,6 +79,7 @@ xyz
       {{ else }}
         {{ partial "li_compact" . }}
       {{ end }}
+
     {{end}}
 
   {{ if $st.Params.content.link_to_archive }}
