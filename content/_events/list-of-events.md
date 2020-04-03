@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "Past Events"
+title = "List of Events"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "past-events"
+  page_type = "Events"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -64,4 +64,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+# There are no immediately upcoming WIST events.  Please check back later.  
 +++
+
+

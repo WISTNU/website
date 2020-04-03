@@ -11,26 +11,21 @@
 
 [[main]]
   name = "Types of Events"
-  url = "events#types"
+  url = "_events#types"
   weight = 21
   parent = "events"
 
 [[main]]
-  name = "Current Events"
-  url = "events#current"
+  name = "List of Events"
+  url = "_events#list-of-events"
   weight = 22
   parent = "events"
 
-[[main]]
-  name = "Past Events"
-  url = "events#past"
-  weight = 23
-  parent = "events"
 
 [[main]]
   name = "Common Reading"
   url = "common-reading/"
-  weight = 24
+  weight = 23
   parent = "events"
 
 

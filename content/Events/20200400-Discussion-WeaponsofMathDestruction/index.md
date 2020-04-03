@@ -2,8 +2,8 @@
 title: 'Book Discussion: Weapons of Math Destruction '
 toc: true
 author: ''
-date: '2020-01-09'
-slug: 202003-Discussion-WeaponsofMathDestruction
+date: '2020-04-01'
+slug: 20200400-Discussion-WeaponsofMathDestruction
 categories: []
 tags: 
   - Discussions
