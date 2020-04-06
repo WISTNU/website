@@ -35,11 +35,9 @@ This quarter WIST will be sponsoring a quarter-long book discussion.  Participan
 # Meeting Information 
 
 ## Zoom Link  
-<font size=3> <b> 
-Zoom Link: <a href="https://northwestern.zoom.us/j/186953954"> https://northwestern.zoom.us/j/186953954 </a> 
-</b> </font>  
+The Zoom link for the meeting will be emailed out to the WIST listserv the day before a given discussion.  
 
-At this time individuals do not need a password or registration to participate in the video conference.  
+Please email Martha, <a href="mailto:mareichler@u.northwestern.edu"> mareichler@u.northwestern.edu</a>, if you have questions or need more information. 
 
 ## Schedule 
 
