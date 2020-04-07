@@ -52,14 +52,17 @@ Chapter 6 | Friday, May 15th    | 1:00 - 1:30pm CT
 Chapter 7 | Friday, May 22nd    | 1:00 - 1:30pm CT     
 Chapter 8 | Friday, May 29th    | 1:00 - 1:30pm CT     
 Chapter 9 | Friday, June 5th    | 1:00 - 1:30pm CT     
-Chapter 10 | Friday, June 12th [^1] | 1:00 - 1:30pm CT     
-Conclusion | Friday, June 19th [^1] | 1:00 - 1:30pm CT     
+Chapter 10 | Friday, June 12th[^final] | 1:00 - 1:30pm CT   
+Conclusion | Friday, June 19th[^break]  | 1:00 - 1:30pm CT     
   
-[^1]: Finals Week and Summer Break, dates subject to change  
+[^final]: Finals week, date and time subject to change
+[^break]: Summer break, date and time subject to change
 
 # Discussion Questions  
 ## Introduction and Chapter 1 -  April 10th  
 
-1. WMD's are defined by opacity, scale, and damage.  Do you think these are appropriate qualifications?  Should there be any others? 
-2. O'Neil writes "Like gods, these mathematical models were opaque, their workings invisible to all but the highest priest in their domain: mathematicians and computer scientists." ^[O'Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Penguin Books, 2018. Hardcover: pg 3]  Do you think the comparison to religion is appropriate?  How has the role of mathematicians and computer scientist in culture changed over the past decade? 
-3. Do you agree with O'Neil's negative outlook on big data?  If not, why?  If so, what can we do to encourage improvement?  
+1. WMD's are defined by opacity, scale and damage.  do you think these are appropirate qualifcations?  Show there be any others?  
+2. O'Neil writes "Like gods, these mathematical models were opaque, their workings invisible to all but the highest priest in their domain: mathematicians and computer scientists."[^ONeil3] Do you think the comparison to religion is appropriate?  How as the role of mathmeticians and computer scientists in culture and society changed over the past decade?   
+3.  Is there a way to change the incentive structure such that companies want to use data fairly?  WMDs survive because they offer a black-box scapegoat tool for boosting profits. The profits are a visible, measurable incentive.   So how do we advertise and measure the advantages of frequently-tested, feedback-driven, fair algorithms?  How will this affect statistical consulting firms (like Mathematica in O'Neil's example)? 
+
+[^ONeil3]: O’Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Penguin Books, 2018. (Introduction, Hardcover: p 3) 
