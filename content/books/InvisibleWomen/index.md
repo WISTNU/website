@@ -38,5 +38,7 @@ Author | [Caroline Criado Perez](https://en.wikipedia.org/wiki/Caroline_Criado-P
 ISBN-10 | 1419729071  
 ISBN-13 | 978-1419729072
 
-
+#### Get at <a href="https://www.bookendsandbeginnings.com/" target="_blank"> Bookends and Beginnings</a>, located in Evanston 
+<a href="https://www.bookendsandbeginnings.com/book/9781419735219" target="_blank"> Paperback </a>  
+<a href="https://www.bookendsandbeginnings.com/book/9781419729072" target="_blank"> Hardcover </a>  
 
