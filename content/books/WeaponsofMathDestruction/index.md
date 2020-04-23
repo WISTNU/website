@@ -38,5 +38,10 @@ Author | [Cathy O'Neil ](https://en.wikipedia.org/wiki/Cathy_O%27Neil)
 ISBN-10 | 0553418815 
 ISBN-13 | 978-0553418811
 
+**Get at [Bookends and Beginnings](https://www.bookendsandbeginnings.com/), located in Evanston**  
+[Paperback](https://www.bookendsandbeginnings.com/book/9780553418835)  
+[Hardcover](https://www.bookendsandbeginnings.com/book/9780553418811)
+
+
 
 
