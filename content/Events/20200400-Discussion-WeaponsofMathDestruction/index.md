@@ -45,9 +45,9 @@ Please email Martha, <a href="mailto:mareichler@u.northwestern.edu"> mareichler@
 
 Discussion Topic | Date | Time  
 ----|---|-------  
-Introduction and Chapter 1 | Friday, April 10th | 1:00 - 1:30pm CT    
+Introduction and Chapter 1 | Friday, April 10th | 1:00 - 1:30pm CT 
 Chapter 2 | Friday, April 17th  | 1:00 - 1:30pm CT     
-Chapter 3 | Friday, April 24th  | 1:00 - 1:30pm CT     
+**Chapter 3** | **Friday, April 24th**  | **1:00 - 1:30pm CT**     
 Chapter 4 | Friday, May 1st     | 1:00 - 1:30pm CT     
 Chapter 5 | Friday, May 8th     | 1:00 - 1:30pm CT     
 Chapter 6 | Friday, May 15th    | 1:00 - 1:30pm CT     
@@ -76,6 +76,12 @@ If you have other questions or topics you would like to discuss for a given sece
 Learn more about the rational investors assumption in this Nova episode: [Mind over Money](https://www.pbs.org/video/nova-mind-over-money/), ^[This episode is available with [PBS Passport](https://video.wttw.com/passport/learn-more/) available to PBS donors in the U.S. that contribute 	&#36;60 annually or more or 	&#36;5 monthly.]  
 1. After going through the 2008 financial recession, O’Neil says “I was forced to confront the ugly truth: people had deliberately wielded formulas to impress rather than clarify” (Ch 2, p 44).    Do you think this is true in industry? What about in academia? 
 1. O’Neil points out that jobs in finance and Big Tech recruit from top schools and pay employees large salaries.  “This leads to the fallacious conclusion that whatever they’re doing to bring in more money is good.  It 'adds value.' Otherwise, why would the market reward it?” (Ch 2, p 47). She refers to this as “economic Darwinism.” Does society appropriately value statistical work? 
+
+## Chapter 3 
+1. A huge issue with the US Today Rankings WMD is the use of proxies, especially those relating to money. Are their “better” proxies that could be used in a quantifiable way? 
+1. Given the new climate (bad economy, increased inequity), how do you think schools will respond to demands for affordability and diversity at their school?  How are students responding to the pressure to perform in a quantifiable way?  
+1. How do we encourage colleges to keep programs - Liberal arts, teaching, social work, division three sports – that are valuable but not quantitatively valuable in high salaries or large donations?
+1. O’Neil writes that “All of them, from the rich to the working class, are simply being trained to fit into an enormous machine – to satisfy a WMD” (Ch 3, p 65).  How can why resist being put into WMD’s? Is it possible on an individual level? 
 
 
 
