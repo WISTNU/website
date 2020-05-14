@@ -47,7 +47,7 @@ Discussion Topic | Date | Time
 ----|---|-------  
 Introduction and Chapter 1 | Friday, April 10th | 1:00 - 1:30pm CT 
 Chapter 2 | Friday, April 17th  | 1:00 - 1:30pm CT     
-**Chapter 3** | **Friday, April 24th**  | **1:00 - 1:30pm CT**     
+Chapter 3 | Friday, April 24th  | 1:00 - 1:30pm CT     
 Chapter 4 | Friday, May 1st     | 1:00 - 1:30pm CT     
 Chapter 5 | Friday, May 8th     | 1:00 - 1:30pm CT     
 Chapter 6 | Friday, May 15th    | 1:00 - 1:30pm CT     
@@ -84,5 +84,32 @@ Learn more about the rational investors assumption in this Nova episode: [Mind o
 1. O’Neil writes that “All of them, from the rich to the working class, are simply being trained to fit into an enormous machine – to satisfy a WMD” (Ch 3, p 65).  How can why resist being put into WMD’s? Is it possible on an individual level? 
 
 
+## Chapter 4 
+1. Advertising today is driven by the mass amounts of personal data collected from various sources. Do you feel comfortable using “free services” (i.e. Facebook, Google) where payment is your data?  If not, are you willing to pay for services instead? 
+1. Do you think personalized advertising is useful in online retail? Do you feel comfortable giving away personal data to receive a personalized experienced? (i.e. Amazon) 
+1. An algorithm itself is neither good nor bad – it is how it is written and implemented.  Is there a way to monetize public health marketing for companies? (i.e. Amazon using its algorithm to find those vulnerable and market them appropriate services such as mental health care, unemployment benefits, and other resources). 
+1. Are there any benefits from for-profit colleges? Should the federal government stop allowing student loads for these institutions?  
 
+
+Interested in learning more about for-profit colleges? Check out <a href="https://thenewpress.com/books/lower-ed" target = "_blank"> Lower Ed by Tressie McMillan Cottom<a/>^[Available for purchase at [Bookends and Beginnings](https://www.bookendsandbeginnings.com/book/9781620974384)] , recommended by Abby Smith.  Also check out Frontline's <a href = "https://www.pbs.org/video/frontline-subprime-education/" target = "_blank" > Subprime Education </a>  from 2010.   
+
+## Chapter 5 
+1. O’Neil talks about PredPol, a crime prediction software, and even though the founder stressed that “the model is blind to race and ethnicity” (Ch2, p 86), it’s use focused policing efforts on poor people of color.  Often, we want to encourage people and organizations to take a data-based approach to policies, but sometimes taking a ‘data-based’ approach can create a WMD.  How do we inform the public about what is and is not appropriate when it comes to creating models? How do we encourage using data as a resource while also having valid quality checks for negative feedback loops? 
+1. Discuss the trade-off between fairness and efficacy/efficiency.  
+Discuss the trade-off between safety and privacy.  
+
+## Chapter 6
+<ol>
+<li> Should personality test be used in any capacity in a work environment?  Why or why not?  
+<small>
+  <ul>
+    <li> “… if we define the goal as a happier worker, personality tests might end up being a useful tool.” (Ch 6, p 109)  </li>
+    <li> “The primary purpose of the test is not to find the best employee.  It’s to exclude as many people as possible as cheaply as possible” (Ch 6, p 109)  </li>
+    <li> “It’s doing its job – even if it misses out on potential stars” (Ch 6, p 111) </li> 
+    </ul>
+  </small>
+</li> 
+<li> In Investment Banking and Consulting, interviewees are asks a variety of questions to gauge their ability for critical thinking on the spot as well as their knowledge of the field.  Many programing and data science jobs require some sort of take-home coding assessment or project.  These ‘tests’ are not done blindly – they are done after a resume is picked from the pile and the individual is known. Is it possible to implement some form of a ‘blind audition’ for these positions? What about for the majority of jobs?
+</li>
+</ol>
 
