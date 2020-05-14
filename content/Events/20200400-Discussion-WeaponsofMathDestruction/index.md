@@ -100,7 +100,7 @@ Discuss the trade-off between safety and privacy.
 
 ## Chapter 6
 <ol>
-<li> Should personality test be used in any capacity in a work environment?  Why or why not?  
+<li> Should personality tests be used in any capacity in a work environment?  Why or why not?  
 <small>
   <ul>
     <li> “… if we define the goal as a happier worker, personality tests might end up being a useful tool.” (Ch 6, p 109)  </li>
@@ -109,7 +109,7 @@ Discuss the trade-off between safety and privacy.
     </ul>
   </small>
 </li> 
-<li> In Investment Banking and Consulting, interviewees are asks a variety of questions to gauge their ability for critical thinking on the spot as well as their knowledge of the field.  Many programing and data science jobs require some sort of take-home coding assessment or project.  These ‘tests’ are not done blindly – they are done after a resume is picked from the pile and the individual is known. Is it possible to implement some form of a ‘blind audition’ for these positions? What about for the majority of jobs?
+<li> In finance and consulting, interviewees are asks a variety of questions to gauge their ability for critical thinking on the spot as well as their knowledge of the field.  Many programing and data science jobs require some sort of take-home coding assessment or project.  These ‘tests’ are not done blindly – they are done after a resume is picked from the pile and the individual is known. Is it possible to implement some form of a ‘blind audition’ for these positions? What about for the majority of jobs?
 </li>
 </ol>
 
