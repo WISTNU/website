@@ -26,7 +26,7 @@ markup: blackfriday
 <img alt = '' width=40% src='WeaponsofMathDestruction.jpg' align="right" style="margin: 10px;"/> 
 
 [Weapons of Math Destruction Book Description]( {{< relref "books/WeaponsofMathDestruction" >}})  
-<html> {{% toc %}} </html>  
+{{% toc %}}  
 
 <font size=5> <i> Stay connected with your statistics peers with this quarter-long book discussion! </i> </font>   
 
