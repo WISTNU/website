@@ -47,6 +47,11 @@
   weight = 32
   parent = "women"
 
+[[main]]
+  name = "Email List"
+  url = "join/"
+  weight = 40
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
