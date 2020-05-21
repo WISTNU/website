@@ -113,3 +113,10 @@ Discuss the trade-off between safety and privacy.
 </li>
 </ol>
 
+## Chapter 7 
+
+1. People in jobs that use scheduling software may go to a for-profit school as the courses may be easier for them to work into their chaotic, last-minute schedule.  Ideally, traditional schools would offer more flexible, possible online, courses AND employers would release scheduling earlier.  If we had to focus on making one of the changes, which would it be?  Which one is better for long-term success? Which one is more likely to change?  
+1. How can we place trust in government trust when huge errors are made, like not recognizing the Simpson’s Paradox in *Nation at Risk*? 
+<a href = "https://www.usatoday.com/story/news/nation/2020/05/19/florida-covid-19-coronavirus-data-researcher-out-state-reopens/5218897002/" target = "_blank" >
+This week an analyst at Florida’s Department of Health alleges she was fired after expressing concerns about altering covid19 to support reopening the state.</a> 
+How can we try to rebuild trust between the general population and statistics?  Should we work on building trust in private organizations or trying to rebuild trust in governmental organizations.  
