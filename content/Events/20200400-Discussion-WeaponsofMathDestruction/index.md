@@ -88,7 +88,7 @@ Learn more about the rational investors assumption in this Nova episode: [Mind o
 1. Are there any benefits from for-profit colleges? Should the federal government stop allowing student loads for these institutions?  
 
 
-Interested in learning more about for-profit colleges? Check out <a href="https://thenewpress.com/books/lower-ed" target = "_blank"> Lower Ed by Tressie McMillan Cottom<a/>^[Available for purchase at [Bookends and Beginnings](https://www.bookendsandbeginnings.com/book/9781620974384)] , recommended by Abby Smith.  Also check out Frontline's <a href = "https://www.pbs.org/video/frontline-subprime-education/" target = "_blank" > Subprime Education </a>  from 2010.   
+Interested in learning more about for-profit colleges? Check out [Lower Ed by Tressie McMillan Cottom](https://thenewpress.com/books/lower-ed)^[Available for purchase at [Bookends and Beginnings](https://www.bookendsandbeginnings.com/book/9781620974384)], recommended by Abby Smith.  Also check out Frontline's <a href = "https://www.pbs.org/video/frontline-subprime-education/" target = "_blank" > Subprime Education </a>  from 2010.   
 
 ## Chapter 5 
 1. O’Neil talks about PredPol, a crime prediction software, and even though the founder stressed that “the model is blind to race and ethnicity” (Ch2, p 86), it’s use focused policing efforts on poor people of color.  Often, we want to encourage people and organizations to take a data-based approach to policies, but sometimes taking a ‘data-based’ approach can create a WMD.  How do we inform the public about what is and is not appropriate when it comes to creating models? How do we encourage using data as a resource while also having valid quality checks for negative feedback loops? 
