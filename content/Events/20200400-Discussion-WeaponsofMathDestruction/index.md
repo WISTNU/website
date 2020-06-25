@@ -45,20 +45,17 @@ Please email Martha, <a href="mailto:mareichler@u.northwestern.edu"> mareichler@
 
 Discussion Topic | Date | Time  
 ----|---|-------  
-Introduction and Chapter 1 | Friday, April 10th | 1:00 - 1:30pm CT 
+Introduction and Chapter 1 | Friday, April 10th | 1:00 - 1:30pm CT   
 Chapter 2 | Friday, April 17th  | 1:00 - 1:30pm CT     
 Chapter 3 | Friday, April 24th  | 1:00 - 1:30pm CT     
 Chapter 4 | Friday, May 1st     | 1:00 - 1:30pm CT     
 Chapter 5 | Friday, May 8th     | 1:00 - 1:30pm CT     
 Chapter 6 | Friday, May 15th    | 1:00 - 1:30pm CT     
-Chapter 7 | Friday, May 22nd    | 1:00 - 1:30pm CT     
-Chapter 8 | Friday, May 29th    | 1:00 - 1:30pm CT     
-Chapter 9 | Friday, June 5th    | 1:00 - 1:30pm CT     
-Chapter 10 | Friday, June 12th[^final] | 1:00 - 1:30pm CT   
-Conclusion | Friday, June 19th[^break]  | 1:00 - 1:30pm CT     
-  
-[^final]: Finals week, date and time subject to change
-[^break]: Summer break, date and time subject to change
+Chapter 7 | Friday, May 29th    | 1:00 - 1:30pm CT     
+Chapter 8 | Friday, June 19th    | 1:00 - 1:30pm CT     
+Chapter 9 | Friday, June 26th    | 1:00 - 1:30pm CT    
+Chapter 10 | Friday, July 3rd  | 1:00 - 1:30pm CT   
+Conclusion | Friday, July 10th | 1:00 - 1:30pm CT     
 
 
 # Discussion Questions  
@@ -120,3 +117,24 @@ Discuss the trade-off between safety and privacy.
 <a href = "https://www.usatoday.com/story/news/nation/2020/05/19/florida-covid-19-coronavirus-data-researcher-out-state-reopens/5218897002/" target = "_blank" >
 This week an analyst at Florida’s Department of Health alleges she was fired after expressing concerns about altering covid19 to support reopening the state.</a> 
 How can we try to rebuild trust between the general population and statistics?  Should we work on building trust in private organizations or trying to rebuild trust in governmental organizations.  
+
+## Chapter 8
+
+1. When people are the product rather than the consumer, there is little incentive for them to fix errors (like on credit reports).  How can we change the situation so they are incentivized to correct errors?  Does the solution require new laws or regulations? What about putting more funding into research regarding record linkage to ensure greater accuracy? 
+1. In Chapter 4, O’Neil talks about how many online services take your data and use it for advertising purposes.  In this chapter, she discusses on this data is also used for e-scores.  With the knowledge that your data is not only being used for advertising but also e-scores that could have a greater impact of your life do you still feel comfortable using “free services” where your data is the payment? If not, are you willing to pay for these services instead?  
+
+## Chapter 9
+
+<ol>
+<li> A common issue with insurance is confusing causation with correlation (i.e. people of color have lower life expectancy and saying that is due to race rather than a product of poverty and injustice).  This is a basic statistical topic that is (or at least should be) taught in intro-level classes.  Why do you think it is so difficult for people to understand the difference between causation and correlation?  How can we improve this in science and society?
+</li>
+<li>
+As more data are available, insurers are able to put people into smaller and smaller groups with very targeted pricing.  Discuss the following issues and what you would do to alleviate the negative impact: 
+<ul>
+<li> <b> Privacy: </b> use of personal data (driving data, BMI, cholesterol and other health data) </li>
+<li> <b> Transparency: </b> people often don’t know what ‘group’ they are in and how that affect pricing </li>
+<li> <b> Choice: </b>  requirement to participate in programs (tracking driving data or wellness programs) </li> 
+</ul>
+</li>
+</ol>
+
