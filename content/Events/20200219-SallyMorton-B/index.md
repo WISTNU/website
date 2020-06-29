@@ -1,5 +1,5 @@
 ---
-title: 'Sally C. Morton: Discussion with Graduates'
+title: 'Sally C. Morton: Discussion with Graduate Students'
 author: ''
 date: '2020-02-19' #can't do a date in the future lol
 slug: 20200219-SallyCMorton-graddiscussion
