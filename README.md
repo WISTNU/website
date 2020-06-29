@@ -1,2 +1,2 @@
 # WIST website
-## Beta Version
+Made with [Academic Hugo](https://sourcethemes.com/academic/) 
