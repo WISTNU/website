@@ -44,7 +44,7 @@ WiDS: Chicago is an independent event organized to coincide with the annual Glob
 
 <figure>
   <img src="WiDSAmbassadors.jpg" alt="WiDS Ambassadors" style="width:80%">
-  <figcaption> Left to Right: Jess Freaner (IDEO), Sophie Hu (Univeristy of Chicago), Jane Zanzig (IDEO), Abby Stevens (University of Chicago), Abby Smith (WIST), Mena Whalen (WIST) </figcaption>
+  <figcaption> Left to Right: Jess Freaner (IDEO), Sophie Hu (University of Chicago), Jane Zanzig (IDEO), Abby Stevens (University of Chicago), Abby Smith (WIST), Mena Whalen (WIST) </figcaption>
 </figure> 
 
 
