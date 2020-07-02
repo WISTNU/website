@@ -138,3 +138,18 @@ As more data are available, insurers are able to put people into smaller and sma
 </li>
 </ol>
 
+## Chapter 10
+
+<ol>
+<li> Many social media companies want to appear as a neutral platform that everyone can use (e.g. Facebook, YouTube, Twitter, Reddit).  What responsibility do social media companies have to regulate content? Does having and enforcing rules about content make end their political neutrality? 
+<ul>
+<li> <a href = "https://business.twitter.com/en/help/ads-policies/ads-content-policies/political-content.html" target = "_blank"> Twitter bans political ads (Fall 2019) </a></li>
+<li> <a href = "https://www.facebook.com/business/help/167836590566506?id=288762101909005" target = "_blank"> Facebook allows political ads  </a></li>
+<li> <a href = "https://www.facebook.com/business/help/182222309230722" target = "_blank"> Facebook has third-party fact checkers; does not apply to politics </a></li>
+<li> <a href = "https://www.npr.org/2020/06/29/884819923/reddit-bans-the_donald-forum-of-nearly-800-000-trump-fans-over-abusive-posts" target = "_blank"> Reddit bans r/the_donald after multiple violations (June 2020) </a></li>
+</ul>
+</li>
+<li>
+The way the electoral college is set up, political campaigns have an incentive to only focus on a small amount of swing voters in specific districts in swing states.  Do you think this is a good enough reason to have reform?  How would you change the presidential election so candidates are encouraged to campaign to all people? 
+</li>
+</ol>
