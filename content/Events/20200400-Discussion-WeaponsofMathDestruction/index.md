@@ -141,7 +141,7 @@ As more data are available, insurers are able to put people into smaller and sma
 ## Chapter 10
 
 <ol>
-<li> Many social media companies want to appear as a neutral platform that everyone can use (e.g. Facebook, YouTube, Twitter, Reddit).  What responsibility do social media companies have to regulate content? Does having and enforcing rules about content make end their political neutrality? 
+<li> Many social media companies want to appear as a neutral platform that everyone can use (e.g. Facebook, YouTube, Twitter, Reddit).  What responsibility do social media companies have to regulate content? Does having and enforcing rules about content end their political neutrality? 
 <ul>
 <li> <a href = "https://business.twitter.com/en/help/ads-policies/ads-content-policies/political-content.html" target = "_blank"> Twitter bans political ads (Fall 2019) </a></li>
 <li> <a href = "https://www.facebook.com/business/help/167836590566506?id=288762101909005" target = "_blank"> Facebook allows political ads  </a></li>
