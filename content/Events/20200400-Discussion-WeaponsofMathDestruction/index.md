@@ -153,3 +153,11 @@ As more data are available, insurers are able to put people into smaller and sma
 The way the electoral college is set up, political campaigns have an incentive to only focus on a small amount of swing voters in specific districts in swing states.  Do you think this is a good enough reason to have reform?  How would you change the presidential election so candidates are encouraged to campaign to all people? 
 </li>
 </ol>
+
+## Conclusion
+
+1. Did you learn anything new while reading the book?  What was your reaction to this new information?
+1. When someone says ‘Weapons of Math Destruction’ what is the first thing that comes to your mind? 
+1. Are there any actions you have taken or will take in response to what you have learned? 
+
+Thank you so much for everyone who has participated in the book club!
