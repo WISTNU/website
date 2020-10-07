@@ -1,7 +1,8 @@
 ---
 title: 'Yajun test'
 author: 'yajun'
-date: '2020-10-10' #can't do a date in the future lol
+date: '2020-10-10' #can't do a date in the future lo
+featured: true
 slug: 20201010-Yajun-TestEvent
 categories: []
 tags: 
@@ -11,7 +12,6 @@ subtitle: ''
 summary: 'test summary'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: yes
 image:
   caption: ''
   focal_point: ''

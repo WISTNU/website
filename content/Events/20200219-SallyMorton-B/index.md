@@ -12,7 +12,7 @@ subtitle: ''
 summary: 'Wednesday, February 19, 2020 from 2:00 - 3:00 PM'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: no
+featured: false
 image:
   caption: ''
   focal_point: ''
