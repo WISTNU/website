@@ -13,7 +13,7 @@ subtitle = ""
 
 [content]
   #are there any more current events, if not show a message
-  next_event = "false"  
+  next_event = "true"  
   #message shown if false 
   message = "There are no upcomming WIST events, please check back later."
   

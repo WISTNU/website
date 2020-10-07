@@ -1,8 +1,8 @@
 ---
 title: 'Yajun test'
 author: 'yajun'
-date: '2020-10-01' #can't do a date in the future lol
-slug: 20201001-Yajun-TestEvent
+date: '2020-10-10' #can't do a date in the future lol
+slug: 20201010-Yajun-TestEvent
 categories: []
 tags: 
   - WiDS
