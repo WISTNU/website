@@ -28,7 +28,7 @@ Data is fundamental to the modern world. From economic development, to healthcar
 
 Celebrated feminist advocate Caroline Criado Perez investigates the shocking root cause of gender inequality and research in Invisible Women, diving into women’s lives at home, the workplace, the public square, the doctor’s office, and more. Built on hundreds of studies in the US, the UK, and around the world, and written with energy, wit, and sparkling intelligence, this is a groundbreaking, unforgettable exposé that will change the way you look at the world.  
 
-Built on hundreds of studies in the United States in the UK, and around the world, and written with energy, wit, and sparkling intelligence, this a groundbreaking, highly readable exposé  that will chnage the way you look at the world.  
+Built on hundreds of studies in the United States in the UK, and around the world, and written with energy, wit, and sparkling intelligence, this a groundbreaking, highly readable exposé  that will change the way you look at the world.  
 
 ## Book Details 
   |   
