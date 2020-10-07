@@ -8,10 +8,10 @@ tags:
   - WiDS
   - Data Dive 
 subtitle: ''
-summary: 'Thursday, March 5, 2020 from 5:00 - 8:00 PM'
+summary: 'test summary'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: true
+featured: yes
 image:
   caption: ''
   focal_point: ''
@@ -23,12 +23,5 @@ header:
   caption: 
   
 ---
-<div style="float:right; width:40%; margin:10px;">
-<img src='DataDiveLogo.png' style="margin: 0px;"/>
-<br>
-<img src='WiDSLogo.png'     style="margin: 0px;"/>
-</div>  
-  
 
-testing 123 
-<br><br><br><br><br><br><br><br><br>
+blah blah blah
