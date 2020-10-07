@@ -11,7 +11,7 @@ subtitle: ''
 summary: 'Thursday, March 5, 2020 from 5:00 - 8:00 PM'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: no
+featured: true
 image:
   caption: ''
   focal_point: ''
