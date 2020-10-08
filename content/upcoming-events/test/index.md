@@ -17,8 +17,7 @@ image:
   focal_point: ''
   preview_only: true
 projects: []
-event_start: '2020-11-01'
-event_end: '2020-11-01'
+publishDate: '2020-10-07'
 
 header:
   image:   
