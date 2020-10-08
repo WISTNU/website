@@ -11,7 +11,7 @@ subtitle: ''
 summary: 'Friday, November 15, 2019 from 11:00 AM - 12:30 PM'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: no
+featured: true
 image:
   caption: ''
   focal_point: ''
