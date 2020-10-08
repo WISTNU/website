@@ -1,8 +1,9 @@
 ---
 title: 'Test Event'
 author: ''
-date: '2019-11-15'
 slug: 20201101-TestEvent
+date: '2025-03-04'
+publishDate: '2020-10-07'
 draft: false
 categories: []
 tags: 
