@@ -11,7 +11,7 @@ subtitle: ''
 summary: 'Fridays during Spring 2020 Quarter '
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: no #put yes if it's a current or upcoming events so it will be put on front page
+featured: yes #put yes if it's a current or upcoming events so it will be put on front page
 image:
   caption: ''
   focal_point: ''
