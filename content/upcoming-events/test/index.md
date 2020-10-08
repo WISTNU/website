@@ -3,6 +3,9 @@ title: 'Book Discussion: Weapons of Math Destruction '
 toc: true
 author: ''
 date: '2020-11-01'
+publishDate: '2020-10-07'
+draft: false
+
 slug: test
 categories: []
 tags: 
@@ -17,7 +20,6 @@ image:
   focal_point: ''
   preview_only: true
 projects: []
-publishDate: '2020-10-07'
 
 header:
   image:   
