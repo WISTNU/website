@@ -37,5 +37,5 @@ West Fairchild, 1861 Sheridan Road
 ## RSVP  
 Please send RSVP's to Abby Smith, als1@u.northwestern.edu
 
-#### Docuements 
+#### Documents 
 [Event Flyer](flyer.pdf)
