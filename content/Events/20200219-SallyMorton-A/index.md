@@ -26,7 +26,7 @@ header:
 
 **Wednesday, February 19, 2020**  
 **12:00 - 1:30 PM**  
-2006 Sherida Road, Room B02  
+2006 Sheridan Road, Room B02  
 
 Come have lunch with Sally C. Morton whose distinguished career in both industry and academia has lead to a wealth of knowledge and experience. The moderated discussion will revolve around undergraduate research, what opportunities exist in and out of academia for womxn in STEM, mentorship, and community.
 
