@@ -38,8 +38,12 @@ https://northwestern.zoom.us/meeting/register/tJMpcOCtrjwuGdasU5RycUWzOUBVsG2KcX
 
 This talk is open to all Northwestern and affiliated community members.
 
-<img alt = '' width=40% src='ElizabethMannshardt.png' align="right" style="margin: 10px;"/>
+<img alt = '' width=40% src='ElizabethMannshardt.png' align="right" style="margin: 5px;"/>
 
 ## About Elizabeth
 
 Elizabeth Mannshardt is the Associate Director of the US Environmental Protection Agency’s "Data Science" Division (Information Access and Analytic Services Division). She is also an Adjunct Associate Professor in the Department of Statistics at North Carolina State University and actively serves on several Executive Boards within the American Statistical Association. Originally from California, she received her PhD in Statistics from UNC Chapel Hill. Prior to joining EPA, Elizabeth held two National Science Foundation Postdoctoral Fellowships in Environmental Statistics and was a Visiting Assistant Professor in the Department of Statistical Science at Duke University.
+
+
+<img alt = '' width=40% src='WIST Elizabeth Mannshardt Nov 9.pdf' style="margin: 5px;"/>
+
