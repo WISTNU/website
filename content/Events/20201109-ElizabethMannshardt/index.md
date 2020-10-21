@@ -46,5 +46,5 @@ Elizabeth Mannshardt is the Associate Director of the US Environmental Protectio
 
 
 
-<img alt = '' width=40% src='WIST_Elizabeth_Mannshardt_Nov_9-1.jpg' align="center" style="margin: 5px;"/>
+<img alt = '' width=100% src='WIST_Elizabeth_Mannshardt_Nov_9-1.jpg' align="center" style="margin: 5px;"/>
 
