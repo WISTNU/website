@@ -1,7 +1,8 @@
 ---
 title: 'A discussion with Katherine Bennett Ensor'
 author: ''
-date: '2021-01-24' #can't do a date in the future lol
+date: '2021-01-29' #can't do a date in the future lol
+publishDate: '2021-01-24'
 slug: 20210129KatherineEnsorWIST
 categories: []
 tags: 
@@ -12,7 +13,7 @@ subtitle: ''
 summary: 'Friday, January 29, 2021 from 11:00 AM - 12:00 PM CST'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ''
