@@ -12,7 +12,7 @@ subtitle: ''
 summary: 'Monday, October 26 from 9:00 AM - 10:30 AM '
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ''
