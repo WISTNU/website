@@ -12,7 +12,7 @@ subtitle: ''
 summary: 'Wednesday, November 4 from 11:00 AM-12:00 PM CST'
 authors: []
 lastmod: '2019-12-23T22:03:09-06:00'
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ''

@@ -1,7 +1,7 @@
 ---
 title: 'A discussion with Katherine Bennett Ensor'
 author: ''
-date: '2021-01-29' #can't do a date in the future lol
+date: '2021-01-24' #can't do a date in the future lol
 publishDate: '2021-01-24'
 slug: 20210129KatherineEnsorWIST
 categories: []
